@@ -1,0 +1,6 @@
+To choose the specific functionalities, follow as per instructions below:
+    -- Type '1' : To get total count of all fruit in the CSV file
+    -- Type '2' : To get total count of distinct fruit types in the basket
+    -- Type '3' : To get the oldest fruit type and ages in the basket
+    -- Type '4' : To get the count of all fruit types in descending order
+    -- Type '5' : To get the count of all fruit types and characteristics

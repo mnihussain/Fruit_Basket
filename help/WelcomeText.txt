@@ -1,0 +1,10 @@
+Hi,
+Welcome to the 'Fruit Basket'
+A Java 1.8 based program
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Type your preference from below:
+-- To execute the program, type '-run'
+-- For help, type '-help'
+-- For individual test, type '-unit'
+-- To exit from program, type '-exit'
+---------------------------------
