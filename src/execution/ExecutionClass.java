@@ -54,4 +54,13 @@ public class ExecutionClass {
         }
         scanner.close();
     }
+
+    public void runWhile(boolean bol){
+        /*
+        while true keep the thread alive
+        until hit the 'run' scanner will always available
+        one thread will execute the whole execution and main thread will receive a boolean value true upon completion
+        a timer will set for 10 seconds then thread will be closing upon saying 'inactive'
+         */
+    }
 }
